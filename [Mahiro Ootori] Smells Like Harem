@@ -1,0 +1,33 @@
+{
+   "title":"[Mahiro Ootori] Smells Like Harem",
+   "description":"",
+   "author":"Mahiro Ootori",
+   "artist":"Mahiro Ootori",
+   "cover":"https://i.imgur.com/HoP5UOf.jpg",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/Dn0EASv"
+         },
+         "last_updated":1624606143,
+         "title":"Smells Like Harem",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/rNE5oxf"
+         },
+         "last_updated":1624606143,
+         "title":"Smells Like Harem 2 - New Fragrance",
+         "volume":"2"
+      },
+      "3":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/3E8lJ0W"
+         },
+         "last_updated":1624606143,
+         "title":"Smells Like Harem 3 - Fragrance for Her",
+         "volume":"3"
+      }
+   }
+}
