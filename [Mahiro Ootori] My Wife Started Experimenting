@@ -1,0 +1,25 @@
+{
+   "title":"[Mahiro Ootori] My Wife Started Experimenting",
+   "description":"",
+   "author":"Mahiro Ootori",
+   "artist":"Mahiro Ootori",
+   "cover":"https://i.imgur.com/plXyOmO.jpg",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/NbFWDMs"
+         },
+         "last_updated":1624606143,
+         "title":"My Wife Started Experimenting",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/fZqRDwj"
+         },
+         "last_updated":1624606143,
+         "title":"My Wife Started Experimenting 2",
+         "volume":"2"
+      }
+   }
+}
