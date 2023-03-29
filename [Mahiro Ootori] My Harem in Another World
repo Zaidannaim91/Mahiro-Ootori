@@ -1,0 +1,33 @@
+{
+   "title":"[Mahiro Ootori] My Harem in Another World",
+   "description":"",
+   "author":"Mahiro Ootori",
+   "artist":"Mahiro Ootori",
+   "cover":"https://i.imgur.com/ZQP9jec.jpg",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/66OHUT5"
+         },
+         "last_updated":1624606143,
+         "title":"My Harem in Another World - Season 1 Anthology",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/7QnWG1x"
+         },
+         "last_updated":1624606143,
+         "title":"My Harem in Another World - Season 2 Anthology",
+         "volume":"2"
+      },
+      "3":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/W3B9OX5"
+         },
+         "last_updated":1624606143,
+         "title":"My Harem in Another World - Season 3 Anthology",
+         "volume":"3"
+      }
+   }
+}
